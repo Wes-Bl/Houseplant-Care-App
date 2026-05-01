@@ -1,2 +1,14 @@
 # Houseplant Care App
 
+
+
+QUICKSTART
+------------------------------------------------------
+Terminal 1:
+cd ..\HCA\backend
+node --env-file=.env src/index.js
+
+Terminal 2:
+cd HCA\mobile\HCA
+npx expo start
+
