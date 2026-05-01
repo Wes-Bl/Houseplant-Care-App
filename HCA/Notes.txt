@@ -1,0 +1,11 @@
+Basic test.json to do Flora searches in terminal.
+-Added Express, with cors. 
+-Axios
+
+
+Wrote Input for app.tsx, made it return all the flora data
+
+Added selector to pick from multiple responses
+
+
+working on cache- sqlite
