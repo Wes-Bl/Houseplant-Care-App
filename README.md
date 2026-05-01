@@ -1,6 +1,6 @@
 # Houseplant Care App
 
-
+.env file goes in /HCA/backend
 
 QUICKSTART
 ------------------------------------------------------
